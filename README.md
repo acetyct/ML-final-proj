@@ -1,4 +1,4 @@
 # ML-final-proj
-This part of the final project is done by me. 
-Link to dataset used:
+ML for Youtube Video Popularity Prediction <br>
+Link to dataset used: <br>
 https://www.kaggle.com/nnqkfdjq/statistics-observation-of-random-youtube-video#count_observation_upload.csv
